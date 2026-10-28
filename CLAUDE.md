@@ -1,6 +1,6 @@
 # voicemode
 
-This repo's profile: only what an agent can't read from the code (ClaudeSetup #13). A line here changes only through the queue (`~/.claude/extensions/proposing.md`).
+This repo's profile: only what an agent can't read from the code (ClaudeSetup #13).
 
 ## What it is
 
